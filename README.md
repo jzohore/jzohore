@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Je suis un développeur Web, orientée PHP/Symfony avec plus de 4 ans d'expérience dans le développement d'applications d'entreprise.
+
 <!--
 **jzohore/jzohore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
